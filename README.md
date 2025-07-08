@@ -1,3 +1,3 @@
 # Job_recommender
 
-Job recommendation system with AI system
+See my original job recommender repository [here](https://codeberg.org/Codeglacier/Job_recommender)
